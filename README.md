@@ -1,7 +1,7 @@
 - 👋 Hi, I’m esther.
 - 👀 I’m interested in T.I.
 - 🌱 I’m currently learning JavaScript,HTML, Css, React. 
-- 😄 Pronouns: She/her
+- 😄 Pronouns: She/her.
 - ⚡ Fun fact: I like to play chess.
 
 <!---
